@@ -1,4 +1,4 @@
-package operations;
+package sk.malajter.operations;
 
 public interface Operation {
 

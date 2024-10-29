@@ -1,4 +1,4 @@
-package operations;
+package sk.malajter.operations;
 
 public class Multiplication implements Operation {
     @Override
